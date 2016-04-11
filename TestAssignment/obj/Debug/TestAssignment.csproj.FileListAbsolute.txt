@@ -1,0 +1,12 @@
+c:\users\alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignment\bin\Debug\TestAssignment.exe.config
+c:\users\alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignment\bin\Debug\TestAssignment.exe
+c:\users\alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignment\bin\Debug\TestAssignment.pdb
+c:\users\alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignment\obj\Debug\TestAssignment.csprojResolveAssemblyReference.cache
+c:\users\alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignment\obj\Debug\TestAssignment.exe
+c:\users\alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignment\obj\Debug\TestAssignment.pdb
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignment\bin\Debug\TestAssignment.exe.config
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignment\obj\Debug\TestAssignment.exe
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignment\obj\Debug\TestAssignment.pdb
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignment\bin\Debug\TestAssignment.exe
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignment\bin\Debug\TestAssignment.pdb
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignment\obj\Debug\TestAssignment.csprojResolveAssemblyReference.cache

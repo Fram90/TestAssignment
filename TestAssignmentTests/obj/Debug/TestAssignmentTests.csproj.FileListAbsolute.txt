@@ -1,0 +1,18 @@
+C:\Users\Alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignmentTests\bin\Debug\TestAssignmentTests.dll
+C:\Users\Alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignmentTests\bin\Debug\TestAssignmentTests.pdb
+C:\Users\Alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignmentTests\bin\Debug\TestAssignment.exe
+C:\Users\Alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignmentTests\bin\Debug\TestAssignment.pdb
+C:\Users\Alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignmentTests\obj\Debug\TestAssignmentTests.csprojResolveAssemblyReference.cache
+C:\Users\Alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignmentTests\obj\Debug\TestAssignmentTests.dll
+C:\Users\Alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignmentTests\obj\Debug\TestAssignmentTests.pdb
+C:\Users\Alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignmentTests\bin\Debug\Moq.dll
+C:\Users\Alexey\documents\visual studio 2013\Projects\TestAssignment\TestAssignmentTests\bin\Debug\Moq.xml
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignmentTests\obj\Debug\TestAssignmentTests.csprojResolveAssemblyReference.cache
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignmentTests\obj\Debug\TestAssignmentTests.dll
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignmentTests\bin\Debug\TestAssignmentTests.dll
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignmentTests\bin\Debug\TestAssignmentTests.pdb
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignmentTests\bin\Debug\Moq.dll
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignmentTests\bin\Debug\TestAssignment.exe
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignmentTests\bin\Debug\TestAssignment.pdb
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignmentTests\bin\Debug\Moq.xml
+C:\Users\green\Desktop\Git\TestAssignment\TestAssignmentTests\obj\Debug\TestAssignmentTests.pdb
