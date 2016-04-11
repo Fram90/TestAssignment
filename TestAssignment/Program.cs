@@ -9,7 +9,7 @@ namespace TestAssignment
 {
     class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             List<TravelCard> cardSet = new List<TravelCard>()
             {

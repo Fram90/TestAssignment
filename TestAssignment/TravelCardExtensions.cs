@@ -33,11 +33,14 @@ namespace TestAssignment
             //заполняем ссылками (индекс - текущая карточка, значение - следующая)
             for (int i = 0; i < pointerArray.Length; i++)
             {
-                for (int j = 0; j < pointerArray.Length; j++)
+                if (pointerArray[i] == -1)
                 {
-                    if (workSet.ElementAt(i).DestinationPoint.Equals(workSet.ElementAt(j).DepartuePoint))
+                    for (int j = 0; j < pointerArray.Length; j++)
                     {
-                        pointerArray[i] = j;
+                        if (workSet.ElementAt(i).DestinationPoint.Equals(workSet.ElementAt(j).DepartuePoint))
+                        {
+                            pointerArray[i] = j;
+                        }
                     }
                 }
             }
